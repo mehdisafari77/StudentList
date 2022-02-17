@@ -15,6 +15,7 @@
 		B50A673327BE19B3009696BC /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50A673227BE19B3009696BC /* Student.swift */; };
 		B50A673527BE1A36009696BC /* StudentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50A673427BE1A36009696BC /* StudentController.swift */; };
 		B50A673727BE1BC2009696BC /* StudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50A673627BE1BC2009696BC /* StudentTableViewController.swift */; };
+		B50A673927BE20B5009696BC /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50A673827BE20B5009696BC /* StudentDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B50A673227BE19B3009696BC /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 		B50A673427BE1A36009696BC /* StudentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentController.swift; sourceTree = "<group>"; };
 		B50A673627BE1BC2009696BC /* StudentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewController.swift; sourceTree = "<group>"; };
+		B50A673827BE20B5009696BC /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B50A673627BE1BC2009696BC /* StudentTableViewController.swift */,
 				B50A673227BE19B3009696BC /* Student.swift */,
 				B50A673427BE1A36009696BC /* StudentController.swift */,
+				B50A673827BE20B5009696BC /* StudentDetailViewController.swift */,
 				B50A671E27BE18D4009696BC /* AppDelegate.swift */,
 				B50A672027BE18D4009696BC /* SceneDelegate.swift */,
 				B50A672427BE18D4009696BC /* Main.storyboard */,
@@ -149,6 +152,7 @@
 				B50A672127BE18D4009696BC /* SceneDelegate.swift in Sources */,
 				B50A673727BE1BC2009696BC /* StudentTableViewController.swift in Sources */,
 				B50A673327BE19B3009696BC /* Student.swift in Sources */,
+				B50A673927BE20B5009696BC /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
