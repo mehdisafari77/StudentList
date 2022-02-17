@@ -5,4 +5,4 @@ a StudentList in Swift UIKit
 A simple student list app with 2 screens that focuses on MVC architecture and simple screen navigations
 
 ## Gif of App
-
+![Gif](./assets/gif.gif)
